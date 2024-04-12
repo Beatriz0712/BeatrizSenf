@@ -1,0 +1,5 @@
+git init
+git add index.html style.css script.js
+git commit -m "Adiciona estrutura básica do projeto de lista de tarefas"
+git remote add origin https://github.com/<nome_do_usuário>/<nome_do_repositório>.git
+git push -u origin master
